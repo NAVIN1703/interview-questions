@@ -1,0 +1,38 @@
+Data Types:
+
+1.What are the different data types in Python?
+2.Explain the difference between mutable and immutable data types.
+3.What is the difference between a list and a tuple?
+4.How does Python handle memory management for different data types? 
+
+Operators:
+
+5. What is the difference between the '==' and 'is' operators in Python?
+
+6.Explain the concept of operator precedence in Python.
+7.How does the 'in' operator work in Python?
+8.What are the bitwise operators in Python, and when would you use them?
+
+Conditional Statements:
+
+9. Explain the difference between 'if', 'elif', and 'else' statements.
+
+10.How do you use the ternary operator in Python?
+11.What is short-circuit evaluation in conditional statements?
+
+Looping Statements:
+
+12. What is the difference between 'for' and 'while' loops?
+
+13.How do you break out of a loop in Python?
+14.Explain the 'range()' function and its usage in loops.
+15.What is an infinite loop, and how do you avoid it?
+
+Functions:
+
+16. How do you define a function in Python?
+
+17.What is the difference between parameters and arguments in a function?
+18.Explain the concept of recursion in Python functions.
+19.How do you return multiple values from a function in Python?
+20.What are lambda functions, and when would you use them?
